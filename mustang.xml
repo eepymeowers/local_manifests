@@ -2,6 +2,6 @@
 <manifest>
   <!--Device tree-->
   <project name="mt8163/android_vendor_amazon_mt8163" path="vendor/amazon/mustang" remote="github" revision="lineage-16.0"/>
-  <project name="/lineage16-mustang/kernel_amazon_mustang" path="kernel/amazon/mustang" remote="github" revision="lineage-16.0"/>
+  <project name="lineage16-mustang/kernel_amazon_mustang" path="kernel/amazon/mustang" remote="github" revision="lineage-16.0"/>
   <project name="lineage16-mustang/device_amazon_mustang" path="device/amazon/mustang" remote="github" revision="lineage-16.0"/>
 </manifest>
