@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/sony/aurora" name="LineageOS/android_device_sony_aurora" remote="github" revision="lineage-21"/>
+    <project path="device/sony/tama-common" name="LineageOS/android_device_sony_tama-common" remote="github" revision="lineage-21"/>
+
+    <!--Kernel-->
+    <project path="kernel/sony/sdm845" name="LineageOS/android_kernel_sony_sdm845" remote="github" revision="lineage-21" />
+
+    <!-- Vendor folders -->
+    <project path="vendor/sony/tama-common" name="TheMuppets/proprietary_vendor_sony_tama-common" remote="github" revision="lineage-21" />
+    <project name="TheMuppets/proprietary_vendor_sony_aurora" path="vendor/sony/aurora" remote="github" revision="lineage-21"/>
+	
+    <!-- Hardware -->
+    <project path="hardware/sony" name="LineageOS/android_hardware_sony" remote="github" revision="lineage-21" />
+    <project path="hardware/sony/SonyOpenTelephony" name="LineageOS/android_hardware_sony_SonyOpenTelephony" remote="github" revision="lineage-21" />
+</manifest>
