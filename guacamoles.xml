@@ -9,7 +9,7 @@
     <project path="kernel/oneplus/sm8150" name="LineageOS/android_kernel_oneplus_sm8150" remote="github" revision="lineage-21" />
 
     <!-- Vendor folders -->
-    <project path="vendor/oneplus/guacamoles" name="eepymeowers/vendor_oneplus_guacamoles" remote="github" revision="lineage-21" />
+    <project path="vendor/oneplus/guacamoles" name="eepymeowers/vendor_oneplus_guacamoles" remote="github" revision="fourteen" />
     <project path="vendor/oneplus/sm8150-common" name="TheMuppets/proprietary_vendor_oneplus_sm8150-common" remote="github" revision="lineage-21" />
 	
     <!-- Hardware -->
