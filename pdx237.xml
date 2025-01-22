@@ -7,7 +7,7 @@
 
     <!--Kernel-->
     <project path="kernel/sony/sm8550" name="LineageOS/android_kernel_sony_sm8550" remote="github" revision="lineage-22.1" />
-
+    <project path="kernel/sony/sm8550-modules" name="LineageOS/android_kernel_sony_sm8550-modules" remote="github" revision="lineage-22.1" />
     <!-- Vendor folders -->
     <project path="vendor/sony/pdx237" name="TheMuppets/proprietary_vendor_sony_pdx237" remote="github" revision="lineage-22.1" />
     <project path="vendor/sony/sm8550-common" name="TheMuppets/proprietary_vendor_sony_sm8550-common" remote="github" revision="lineage-22.1" />
