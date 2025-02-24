@@ -13,5 +13,5 @@
     <project name="TheMuppets/proprietary_vendor_sony_aurora" path="vendor/sony/aurora" remote="github" revision="lineage-22.1"/>
 	
     <!-- Hardware -->
-    <project path="hardware/sony/SonyOpenTelephony" name="LineageOS/android_hardware_sony_SonyOpenTelephony" remote="github" revision="15.0" />
+    <project path="hardware/sony/SonyOpenTelephony" name="LineageOS/android_hardware_sony_SonyOpenTelephony" remote="github" revision="lineage-22.1" />
 </manifest>
