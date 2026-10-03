@@ -7,12 +7,12 @@
 
     <!--Kernel-->
     <project path="kernel/sony/sm8550" name="crdroidandroid/android_kernel_sony_sm8550" remote="github" revision="16.0" />
-    <project path="kernel/sony/sm8550-modules" name="LineageOS/android_kernel_sony_sm8550-modules" remote="github" revision="lineage-23.2" />
-    <project path="kernel/sony/sm8550-devicetrees" name="LineageOS/android_kernel_sony_sm8550-devicetrees" remote="github" revision="lineage-23.2" />
+    <project path="kernel/sony/sm8550-modules" name="crdroidandroid/android_kernel_sony_sm8550-modules" remote="github" revision="16.0" />
+    <project path="kernel/sony/sm8550-devicetrees" name="crdroidandroid/android_kernel_sony_sm8550-devicetrees" remote="github" revision="16.0" />
     <!-- Vendor folders -->
     <project path="vendor/sony/pdx237" name="TheMuppets/proprietary_vendor_sony_pdx237" remote="github" revision="lineage-23.2" />
     <project path="vendor/sony/sm8550-common" name="TheMuppets/proprietary_vendor_sony_sm8550-common" remote="github" revision="lineage-23.2" />
 	
     <!-- Hardware -->
-    <project path="hardware/sony" name="LineageOS/android_hardware_sony" remote="github" revision="lineage-23.2" />
+    <project path="hardware/sony" name="crdroidandroid/android_hardware_sony" remote="github" revision="16.0" />
 </manifest>
